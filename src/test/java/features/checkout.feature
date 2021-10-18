@@ -14,7 +14,7 @@
        | tipoCenario      | name      | lastName     | pCode      |
        | "valido"         | "Luciano" | "Silva Lima" | "60750490" |
        | "name vazio"     | ""        | "Silva Lima" | "50223132" |
-       | "lastName vazio" | "Luciano" | ""           | "55023212" |
-       | "pCode vazio"    | "Luciano" | "Silva Lima" | ""         |
+    
+
 
 
